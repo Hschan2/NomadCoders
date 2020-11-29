@@ -15,4 +15,5 @@ NomadCoder Lectures
 - React_memo
     React로 To-Do List 만들기
 
-
+- MovieQL
+    Graph QL로 Movie Information 홈페이지 만들기
